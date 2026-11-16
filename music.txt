@@ -1,0 +1,70 @@
+1, Happy, Walking On Sunshine, Katrina and the Waves, Pop Rock
+2, Happy, Here Comes the Sun, Beatles, Folk Pop
+3, Happy, HOT TO GO!, Chappell Roan, Pop
+4, Happy, As It Was, Harry Styles, Pop
+5, Happy, Riptide, Vance Joy, Indie Folk
+6, Happy, Cruel Summer, Taylor Swift, Pop
+7, Happy, Espresso, Sabrina Carpenter, Pop
+8, Happy, American Girls, Harry Styles, Pop
+9, Happy, Man I Need, Olivia Dean, Pop
+10, Happy, Housewife, Tate McRae, Pop
+11, Sad, Pushing it Down and Praying, Lizzy Mcalpine, Indie Pop 
+12, Sad, Lover You Shouldv'e Come Over, Jeff Buckley, Alternative Rock
+13, Sad, I Know The End, Phoebe Bridgers, Chamber Pop
+14, Sad, The Governer's Waltz, Phoebe Bridgers, Indie Folk
+15, Sad, Cigarette Smoke, Olivia Rodrigo, Indie Folk
+16, Sad, Less, Olivia Rodrigo, Indie Folk
+17, Sad, Begged, Olivia Rodrigo, Indie Folk
+18, Sad, The Night We Met, Lord Huron, Indie Folk
+19, Sad, Cool About It, Boy Genius, Indie Folk
+20, Sad, Tolerate It, Taylor Swift, Alt-Pop
+21, Angry, good 4 u, Olivia Rodrigo, Pop-Punk
+22, Angry, Before He Cheats, Carrie Underwood, Country
+23, Angry, Wrecking Ball, Miley Cyrus, Pop
+24, Angry, I Knew You Were Trouble, Taylor Swift, Pop
+25, Angry, Better Than Revenge, Taylor Swift, Pop-Rock
+26, Angry, What the Hell, Avril Lavigne, Pop-Punk
+27, Angry, So What, P!nk, Pop-Rock
+28, Angry, Forget Her, Jeff Buckley, Alternative Rock
+29, Angry, Torn, Creed, Post-Grunge
+30, Angry, Picture to Burn, Taylor Swift, Country
+31, Relaxed, Only Time, Enya, Celtic
+32, Relaxed, Apocalypse, Cigarettes After Sex, Dream Pop
+33, Relaxed, Open Season, High Highs, Indie Pop
+34, Relaxed, Champagne Coast, Blood Orange, Chillwave
+35, Relaxed, Bags, Clairo, Indie Pop
+36, Relaxed, Old Recliners, Role Model, Indie Pop
+37, Relaxed, Amsterdam, Gregory Alan Isakov, Indie Folk
+38, Relaxed, I Root, Michael Nau, Indie Rock
+39, Relaxed, I've Seen It, Olivia Dean, Pop
+40, Relaxed, Drops of Jupiter (Tell Me), Train, Pop Rock
+41, Stressed, Stressed Out, Twenty One Pilots, Alternative Hip Hop
+42, Stressed, You're Gonna Go Far, Noah Kahan, Folk
+43, Stressed, You're On Your Own Kid, Taylor Swift, Synth-Pop
+44, Stressed, Teenage Dream, Olivia Rodrigo, Alt-Pop
+45, Stressed, this is me trying, Taylor Swift, Folk
+46, Stressed, In My Blood, Shawn Mendes, Pop Rock
+47, Stressed, breathin, Ariana Grande, Dance-Pop
+48, Stressed, doomsday, Lizzy Mcalpine, Indie Folk
+49, Stressed, making the bed, Olivia Rodrigo, Pop-Rock
+50, Stressed, mirrorball, Taylor Swift, Folk
+51, Love, Lover, Taylor Swift, Pop
+52, Love, Can't Help Falling In Love, Elvis Presley, Pop
+53, Love, Thinking Out Loud, Ed Sheeran, Pop Soul
+54, Love, All of Me, John Legend, R&B
+55, Love, Kiss Me, Sixpence None the Richer, Pop Rock
+56, Love, Iris, The Goo Goo Dolls, Alternative Rock
+57, Love, I Wanna Be Yours, Arctic Monkeys, Alternative Rock
+58, Love, Video Games, Lana Del Rey, Alternative Pop
+59, Love, Like Real People Do, Hozier, Indie-Rock
+60, Love, Mine, Taylor Swift, Pop
+61, Heartbreak, Traitor, Olivia Rodrigo, Pop
+62, Heartbreak, Last Kiss, Taylor Swift, Pop
+63, Heartbreak, Breakeven, The Script, Pop Rock
+64, Heartbreak, With Or Without You, U2, Rock
+65, Heartbreak, Touch, Cigarettes After Sex, Dream Pop
+66, Heartbreak, How Many Things, Sabrina Carpenter, Pop
+67, Heartbreak, We Almost Broke Up Again Last Night, Sabrina Carpenter, Pop
+68, Heartbreak, The Cure, Olivia Rodrigo, Alternative Rock
+69, Heartbreak, Glimpse of Us, Joji, Piano Ballad
+70, Heartbreak, Reckless, Madison Beer, Pop Ballad

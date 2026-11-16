@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Music Mood Website</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+
+<body>
+
+    <h1>Choose the mood you're feeling to get song recommendations!</h1>
+
+    <h2>How are you feeling today?</h2>
+
+    <div class ="moods">
+    <button onclick="getSongs('happy')">Happy</button>
+    <button onclick="getSongs('sad')">Sad</button>
+    <button onclick="getSongs('angry')">Angry</button>
+    <button onclick="getSongs('relaxed')">Relaxed</button>
+    <button onclick="getSongs('stressed')">Stressed</button>
+    <button onclick="getSongs('love')">Love</button>
+    <button onclick="getSongs('heartbreak')">Heartbreak</button>
+    </div>
+
+    <h2 id="playlist-title"></h2>
+
+    <div id="song-list"></div>
+
+    <script src="/javascripts/music.js"></script>
+
+</body>
+</html>
