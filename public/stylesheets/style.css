@@ -1,4 +1,5 @@
 
+/* General styling */
 * {
     box-sizing: border-box;
 }
@@ -32,7 +33,37 @@ h2 {
     margin-bottom: 25px;
 }
 
-/* Mood buttons container */
+/* Navigation menu - master */
+nav ul li {
+    display: inline;
+    list-style-type: none;
+}
+
+.menu {
+    text-align: right;
+}
+
+.menu a {
+    color: #e0aaff;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.menu a:hover {
+    color: #ff8fab;
+}
+
+/* Links - master */
+a {
+    color: #00B7FF;
+}
+
+/* Error messages - master */
+#message {
+    color: red;
+}
+
+/* Mood buttons container - main */
 .moods {
     display: flex;
     justify-content: center;
@@ -52,7 +83,6 @@ button {
     font-weight: bold;
     cursor: pointer;
     transition: 0.3s;
-
 }
 
 button:hover {
@@ -87,9 +117,7 @@ button:hover {
     border-radius: 25px;
     padding: 18px 25px;
     margin-bottom: 14px;
-   
 }
-
 
 .song:hover {
     background: rgba(255, 255, 255, 0.13);
@@ -101,7 +129,6 @@ button:hover {
     min-height: 50px;
     margin-bottom: 10px;
 }
-
 
 /* Artist and genre */
 .song p:first-of-type {
