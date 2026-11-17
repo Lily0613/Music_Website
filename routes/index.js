@@ -24,21 +24,28 @@ router.get('/music', function(req, res, next) {
   res.sendFile(path.join(__dirname,'..', 'public','music.html'));
 });
 
-// Get songs based on selected mood
+// Retrieve songs from database based on the selected mood
 router.get('/songs/:mood', async function(req, res, next) {
+
+  // Retrieves the selected mood from the URL and queries the PostgreSQL database for all matching songs.
     try {
         const mood = req.params.mood.trim();
 
+        // Sends request to the database to retrieve all songs that match the selected mood.
         const result = await client.query(
             'SELECT * FROM songs WHERE TRIM(mood) ILIKE $1',
             [mood]
         );
 
+        // Displays which mood the user selected
         console.log("Requested mood:", mood);
+        // Contains the records returned by the database
         console.log("Number of songs:", result.rows.length);
 
+        //Sends the songs back to the webpage so js recieves the info and displays the songs on the webpage
         res.json(result.rows);
 
+        //Handles errors
     } catch (err) {
         next(err);
     }
