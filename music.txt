@@ -68,3 +68,4 @@
 68, Heartbreak, The Cure, Olivia Rodrigo, Alternative Rock
 69, Heartbreak, Glimpse of Us, Joji, Piano Ballad
 70, Heartbreak, Reckless, Madison Beer, Pop Ballad
+71, Sad, Willing and Able, Noah Kahan, Folk
