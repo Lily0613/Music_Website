@@ -28,16 +28,21 @@ router.get('/music', function(req, res, next) {
 // Retrieve songs from database based on selected mood
 router.get('/songs/:mood', async function(req, res, next) {
   try {
+    // Gets the mood from the URL parameter and removes extra whitespace
     const mood = req.params.mood.trim();
 
+    // Queries the database to find all songs that match the requested mood
     const result = await client.query(
       'SELECT * FROM songs WHERE TRIM(mood) ILIKE $1',
       [mood]
     );
 
+    // Prints the requested mood in the console 
     console.log("Requested mood:", mood);
+    // Prints the number of songs found in the database
     console.log("Number of songs:", result.rows.length);
 
+    // Sends the matching songs back as a JSON response
     res.json(result.rows);
 
   } catch (err) {
